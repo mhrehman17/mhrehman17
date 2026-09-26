@@ -6,7 +6,7 @@ My research interests revolve around the problem of federated learning in hospit
 
 🌱 I’m currently learning Python, Pytorch, gRPC, MLOps, and JIRA
 
-👯 I’m looking to collaborate on federated learning, medical imaging AI, differential privacy, and homomorphic encryption
+👯 I’m looking to collaborate on federated learning, finance AI, differential privacy, and homomorphic encryption
 
 🤔 I’m looking for help with development of an open-source federated medical AI platform for healthcare researchers
 
